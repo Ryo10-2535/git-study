@@ -7,5 +7,7 @@ public class Main {
     	System.out.println("5回目の修正です_0319");
     	System.out.println("6回目の修正です_0319");
     	// 1日目の学習完了!
+    	
+    	System.out.println("間違えたメッセージでコミットする");
     }
 }
