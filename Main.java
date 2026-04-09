@@ -9,5 +9,7 @@ public class Main {
     	// 1日目の学習完了!
     	
     	System.out.println("間違えたメッセージでコミットする");
+    	System.out.println("2回目のプッシュテストをします");
+    	// 2回目のpushテスト
     }
 }
