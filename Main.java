@@ -13,5 +13,7 @@ public class Main {
     	// 2回目のpushテスト
     	System.out.println("SSH接続でプッシュテストをします");
     	// SSH接続でのpushテスト
+    	System.out.println("こんにちは");
+    	// 挨拶機能を追加します
     }
 }
