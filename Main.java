@@ -11,5 +11,7 @@ public class Main {
     	System.out.println("間違えたメッセージでコミットする");
     	System.out.println("2回目のプッシュテストをします");
     	// 2回目のpushテスト
+    	System.out.println("SSH接続でプッシュテストをします");
+    	// SSH接続でのpushテスト
     }
 }
