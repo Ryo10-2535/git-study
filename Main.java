@@ -15,5 +15,6 @@ public class Main {
     	// SSH接続でのpushテスト
     	System.out.println("Hello, this is Master branch!");
     	// 挨拶機能を追加します
+    	System.out.println("おはようございます、conflict-testです！");
     }
 }
