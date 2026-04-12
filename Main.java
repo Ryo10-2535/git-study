@@ -15,5 +15,6 @@ public class Main {
     	// SSH接続でのpushテスト
     	System.out.println("こんにちは、conflict-testです！");
     	// 挨拶機能を追加します
+    	System.out.println("おはようございます、conflict-testです！");
     }
 }
