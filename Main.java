@@ -16,8 +16,5 @@ public class Main {
     	System.out.println("Hello, this is Master branch!");
     	// 挨拶機能を追加します
     	System.out.println("おはようございます、conflict-testです！");
-    	// 6日目ミッション用のバグを仕込む
-    	System.out.println("Reset用のバグを仕込みます");
-    	System.out.println("Revert用のバグを仕込みます");
     }
 }
